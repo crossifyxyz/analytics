@@ -1,0 +1,7 @@
+.next/
+node_modules/
+out/
+coverage/
+__snapshots__/
+package-lock.json
+.gitignore
